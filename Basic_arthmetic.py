@@ -15,3 +15,6 @@ print(f"Substraction  is {A} - {B} = {Substraction} ")
 print(f"Multiplication  is {A} * {B} = {Multiplication} ")
 print(f"Division  is {A} / {B} = {Division} ")
 print(f"Modulo  is {A} % {B} = {Modulo} ")
+
+
+# Code by \-\-@gndgit-/-/ :)
